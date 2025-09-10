@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
     npm run dev (front end)
     set PORT=5000 && npm start (back end)
     ```
-    The application will be available at `http://localhost:5173`.
+    The application will be available at `http://localhost:5001`.
 
 ---
 
