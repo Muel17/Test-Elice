@@ -7,7 +7,7 @@ This is the official submission for the Elice Full-Stack Engineer Challenge. It'
 
 A complete video demonstration of the application's features, including user registration, login, content searching, and progress tracking, is available here:
 
-**[PASTE THE LINK TO YOUR DEMO VIDEO HERE]**
+**(https://drive.google.com/file/d/1Lq4A5nPcv0U2_xaX-MlKgn56eL2y-wQU/view?usp=sharing)**
 
 ---
 
