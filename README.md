@@ -14,7 +14,6 @@ A complete video demonstration of the application's features, including user reg
 ## ✨ Core Features
 
 * **Content Discovery:** A dynamic search interface to find learning resources from various sources.
-* **User Authentication:** Secure user registration and login using JWT for session management.
 * **Personalized Library:** Users can save and unsave content, creating a personalized collection of learning materials.
 * **Progress Tracking:** Functionality to monitor and update learning progress (e.g., 'Not Started', 'In Progress', 'Completed').
 * **RESTful API:** A well-structured backend API to manage all application data and logic.
